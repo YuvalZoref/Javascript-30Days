@@ -1,1 +1,1 @@
-# Javascript-30Days
+# Javascript-30Days Challenge
